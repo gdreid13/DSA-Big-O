@@ -1,0 +1,17 @@
+1. 1) O(1)
+   2) O(n)
+2. O(1), because the input size doesn't matter; it always executes at the same speed regardless of input size
+3. O(n^2), because it requires 2 levels of looping over an input
+4. O(n), as the running time is directly proportional to the size of the input
+5. O(n), as again the running time is directly proportional to the size of the input
+6. O(n^2), because it requires 2 levels of looping over an input
+7. The algorithm makes a decimal number into a binary number (don't know if accurate).  Complexity is O(n) as runtime is directly proportional to size of input.
+8. O(log(n)), because the problem makes an effort to chop the problem into smaller parts as it goes through the algorithm
+9. O(1) as there is only one argument and runtime doesn't depend on the size of the input
+10. The algorithm detects if a number is prime.  Big O is O(n) as runtime is directly proportional to size of input.
+11. 
+function towerHanoi(discs) {
+  
+}
+
+12.
